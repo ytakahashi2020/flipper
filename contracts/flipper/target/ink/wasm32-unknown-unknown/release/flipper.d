@@ -1,0 +1,1 @@
+/Users/ytakahashi/Desktop/study_session/swanky/test_project/contracts/flipper/target/ink/wasm32-unknown-unknown/release/flipper.wasm: /Users/ytakahashi/Desktop/study_session/swanky/test_project/contracts/flipper/lib.rs

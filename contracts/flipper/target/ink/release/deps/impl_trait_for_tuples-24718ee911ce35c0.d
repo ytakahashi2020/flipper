@@ -1,0 +1,8 @@
+/Users/ytakahashi/Desktop/study_session/swanky/test_project/contracts/flipper/target/ink/release/deps/libimpl_trait_for_tuples-24718ee911ce35c0.dylib: /Users/ytakahashi/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/lib.rs /Users/ytakahashi/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/full_automatic.rs /Users/ytakahashi/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/semi_automatic.rs /Users/ytakahashi/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/utils.rs
+
+/Users/ytakahashi/Desktop/study_session/swanky/test_project/contracts/flipper/target/ink/release/deps/impl_trait_for_tuples-24718ee911ce35c0.d: /Users/ytakahashi/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/lib.rs /Users/ytakahashi/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/full_automatic.rs /Users/ytakahashi/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/semi_automatic.rs /Users/ytakahashi/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/utils.rs
+
+/Users/ytakahashi/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/lib.rs:
+/Users/ytakahashi/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/full_automatic.rs:
+/Users/ytakahashi/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/semi_automatic.rs:
+/Users/ytakahashi/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/utils.rs:

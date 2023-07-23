@@ -1,0 +1,1 @@
+/Users/ytakahashi/Desktop/study_session/swanky/test_project/contracts/flipper/target/ink/release/metadata-gen: /Users/ytakahashi/Desktop/study_session/swanky/test_project/contracts/flipper/lib.rs /private/var/folders/k9/td02q9q970b8cnfk4yzg6jy80000gn/T/cargo-contract_V9LUZQ/.ink/metadata_gen/main.rs
